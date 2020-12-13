@@ -1,1 +1,1 @@
-this repository for saving my first code with node.js basics
+studying node.js
